@@ -1,4 +1,16 @@
 {
-  "indexes": [],
+  "indexes": [{
+    "collectionGroup": "inventory",
+    "queryScope": "COLLECTION",
+    "fields": [{
+        "fieldPath": "type",
+        "order": "ASCENDING"
+      },
+      {
+        "fieldPath": "inventoryNumber",
+        "order": "DESCENDING"
+      }
+    ]
+  }],
   "fieldOverrides": []
 }
