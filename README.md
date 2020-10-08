@@ -15,7 +15,7 @@ docs][firestore-docs]. <br>
 
 ### Technology Used:
 
-React.js | JavaScript | Material-UI | CSS
+JavaScript | Firebase Firestore
 
 ### Key Features
 
